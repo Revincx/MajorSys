@@ -1,0 +1,11 @@
+# Dependency files
+
+/node_modules
+
+# Python Cache Files
+
+__pycache__
+
+# Yarn files
+
+yarn-error.log

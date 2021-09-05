@@ -1,0 +1,10 @@
+
+@media (max-width: 768px) {
+  .el-message-box {
+    width: 75%!important;
+  }
+}
+
+.selected-row {
+  background-color: rgba(87, 179, 252, 0.14) !important;
+}
