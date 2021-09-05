@@ -11,6 +11,7 @@
 
 * DB_HOST：MySQL数据库主机名
 * DB_PASS：MySQL数据库密码
+* SIGN_KEY：Koa-session签名密钥，使用随机字符串即可。
 
 在pages/home.vue中添加系统使用说明。
 

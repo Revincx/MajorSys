@@ -21,7 +21,7 @@ app.use(cors({
     origin: '*'
 }))
 
-app.keys = [ 'ThE*SeCrEt' ]
+app.keys = [ process.env.SIGN_KEY ]
 
 app.use(session({
     key: 'sess',
